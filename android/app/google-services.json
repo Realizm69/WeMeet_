@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092645072600",
+    "project_id": "wemeet-3bf18",
+    "storage_bucket": "wemeet-3bf18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092645072600:android:0c835645a4ebb6eb4cb1ad",
+        "android_client_info": {
+          "package_name": "com.example.wemeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6RsF5W_Ai-5F_o9VyJtbl70j2KfREA5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
